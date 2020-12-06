@@ -1,0 +1,13 @@
+D:\Documents\GitHub\Rent-a-Car\Rent-a-Car\Rent-a-Car\bin\Debug\netcoreapp3.1\Rent-a-Car.exe
+D:\Documents\GitHub\Rent-a-Car\Rent-a-Car\Rent-a-Car\bin\Debug\netcoreapp3.1\Rent-a-Car.deps.json
+D:\Documents\GitHub\Rent-a-Car\Rent-a-Car\Rent-a-Car\bin\Debug\netcoreapp3.1\Rent-a-Car.runtimeconfig.json
+D:\Documents\GitHub\Rent-a-Car\Rent-a-Car\Rent-a-Car\bin\Debug\netcoreapp3.1\Rent-a-Car.runtimeconfig.dev.json
+D:\Documents\GitHub\Rent-a-Car\Rent-a-Car\Rent-a-Car\bin\Debug\netcoreapp3.1\Rent-a-Car.dll
+D:\Documents\GitHub\Rent-a-Car\Rent-a-Car\Rent-a-Car\bin\Debug\netcoreapp3.1\Rent-a-Car.pdb
+D:\Documents\GitHub\Rent-a-Car\Rent-a-Car\Rent-a-Car\obj\Debug\netcoreapp3.1\Rent-a-Car.csprojAssemblyReference.cache
+D:\Documents\GitHub\Rent-a-Car\Rent-a-Car\Rent-a-Car\obj\Debug\netcoreapp3.1\Rent-a-Car.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Rent-a-Car\Rent-a-Car\Rent-a-Car\obj\Debug\netcoreapp3.1\Rent-a-Car.AssemblyInfo.cs
+D:\Documents\GitHub\Rent-a-Car\Rent-a-Car\Rent-a-Car\obj\Debug\netcoreapp3.1\Rent-a-Car.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Rent-a-Car\Rent-a-Car\Rent-a-Car\obj\Debug\netcoreapp3.1\Rent-a-Car.dll
+D:\Documents\GitHub\Rent-a-Car\Rent-a-Car\Rent-a-Car\obj\Debug\netcoreapp3.1\Rent-a-Car.pdb
+D:\Documents\GitHub\Rent-a-Car\Rent-a-Car\Rent-a-Car\obj\Debug\netcoreapp3.1\Rent-a-Car.genruntimeconfig.cache
